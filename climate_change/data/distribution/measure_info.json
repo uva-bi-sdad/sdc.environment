@@ -14,10 +14,9 @@
         "short_name": "National Risk Index (NRI)",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -41,10 +40,9 @@
         "short_name": "Avalanche Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -68,10 +66,9 @@
         "short_name": "Coastal Flooding Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -95,10 +92,9 @@
         "short_name": "Cold Wave Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -122,10 +118,9 @@
         "short_name": "Drought Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -149,10 +144,9 @@
         "short_name": "Earthquake Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -176,10 +170,9 @@
         "short_name": "Hail Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -203,10 +196,9 @@
         "short_name": "Heatwave Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -230,10 +222,9 @@
         "short_name": "Hurricane Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -257,10 +248,9 @@
         "short_name": "Ice Storm Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -284,10 +274,9 @@
         "short_name": "Landslide Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -311,10 +300,9 @@
         "short_name": "Lightning Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -338,10 +326,9 @@
         "short_name": "Riverine Flood Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -365,10 +352,9 @@
         "short_name": "Strong Wind Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -392,10 +378,9 @@
         "short_name": "Tornado Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -419,10 +404,9 @@
         "short_name": "Tsunami Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -446,10 +430,9 @@
         "short_name": "Volcanic Activity Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -473,10 +456,9 @@
         "short_name": "Wildfire Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],
@@ -500,10 +482,9 @@
         "short_name": "Winter Weather Risk",
         "sources": [
             {
-                "date_accessed": 2021,
-                "location": "Census Tract Level",
-                "location_url": "",
                 "name": "Federal Emergency Management Agency: National Risk Index",
+                "location": "Census Tract Level",
+                "date_accessed": 2021,
                 "url": "https://hazards.fema.gov/nri/data-resources"
             }
         ],

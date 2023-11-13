@@ -14,10 +14,9 @@
         "short_name": "PM 2.5",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -41,10 +40,9 @@
         "short_name": "Ozone",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -68,10 +66,9 @@
         "short_name": "DPM",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -95,10 +92,9 @@
         "short_name": "Cancer Risk",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -122,10 +118,9 @@
         "short_name": "Respiratory HI",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -149,10 +144,9 @@
         "short_name": "Traffic Proximity Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -176,10 +170,9 @@
         "short_name": "Lead paint proxy",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -203,10 +196,9 @@
         "short_name": "Lead paint proxy",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -230,10 +222,9 @@
         "short_name": "Superfund Proximity Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -257,10 +248,9 @@
         "short_name": "RMP Facility Proximity Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -284,10 +274,9 @@
         "short_name": "Hazardous Waste Proximity Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -311,10 +300,9 @@
         "short_name": "Underground Storage Tanks Risk Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -338,10 +326,9 @@
         "short_name": "Wastewater Discharge Proximity Risk Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -365,10 +352,9 @@
         "short_name": "EJ Index for PM 2.5",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -392,10 +378,9 @@
         "short_name": "EJ Index for Ozone",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -419,10 +404,9 @@
         "short_name": "EJ Index for DPM",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -446,10 +430,9 @@
         "short_name": "EJ Index for Cancer Risk",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -473,10 +456,9 @@
         "short_name": "EJ Index for Respiratory HI",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -500,10 +482,9 @@
         "short_name": "EJ Index for Traffic Proximity",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -527,10 +508,9 @@
         "short_name": "EJ Index for lead paint proxy",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -554,10 +534,9 @@
         "short_name": "EJ Index for Superfund Proximity",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -581,10 +560,9 @@
         "short_name": "EJ Index for RMP Facility Proximity",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -608,10 +586,9 @@
         "short_name": "EJ Index for TSDF Proximity",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -635,10 +612,9 @@
         "short_name": "EJ Index for Risk from Underground Storage Tanks",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -662,10 +638,9 @@
         "short_name": "EJ Index for Risk from Wastewater Discharge",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -689,10 +664,9 @@
         "short_name": "PM 2.5",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -716,10 +690,9 @@
         "short_name": "Ozone",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -743,10 +716,9 @@
         "short_name": "DPM",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -770,10 +742,9 @@
         "short_name": "Traffic Proximity Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -797,10 +768,9 @@
         "short_name": "Lead paint proxy",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -824,10 +794,9 @@
         "short_name": "RMP Facility Proximity Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -851,10 +820,9 @@
         "short_name": "Superfund Proximity Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -878,10 +846,9 @@
         "short_name": "Hazardous Waste Proximity Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -905,10 +872,9 @@
         "short_name": "Underground Storage Tanks Risk Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
@@ -932,10 +898,9 @@
         "short_name": "Wastewater Discharge Proximity Risk Index",
         "sources": [
             {
-                "date_accessed": 2023,
-                "location": "EJScreen 2022",
-                "location_url": "",
                 "name": "Environmental Justice Screen",
+                "location": "EJScreen 2022",
+                "date_accessed": 2023,
                 "url": "https://gaftp.epa.gov/EJSCREEN/2022/"
             }
         ],
